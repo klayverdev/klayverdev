@@ -68,7 +68,7 @@ My name is Klayver Oliveira, I'm 22 years old, and I'm from Rio de Janeiro, Braz
 
 <div align="center">
 
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=cogumm&custom_title=klayverdev's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=f0f6fc&area=true&hide_border=true">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=klayverdev&custom_title=klayverdev's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=f0f6fc&area=true&hide_border=true">
 </div>
 
 <div align="center">
