@@ -81,6 +81,7 @@ My name is Klayver Oliveira, I'm 22 years old, and I'm from Rio de Janeiro, Braz
   <a href="mailto:klayver261@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  
   <a href="https://instagram.com/klayveroliveiraa">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
