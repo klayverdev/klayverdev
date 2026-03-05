@@ -20,7 +20,7 @@ My name is Klayver Oliveira, I'm 22 years old, and I'm from Tocantins, Minas Ger
 ## 🚀 Professional Profile
 
 * 🔭 Developing myself as a **Software Engineer**, creating projects and expanding my **portfolio**
-* 🎯 Strong interest in **full Stack development**, **web systems**, and **functional digital solutions**
+* 🎯 Strong interest in **back end development**, **web systems**, and **functional digital solutions**
 * 📚 Building both academic and practical foundations to become a **solid and market-ready professional**
 * 💡 Driven by **innovation**, **technical curiosity**, and the challenge of **turning ideas into code**
 * 🔧 Strengthening my fundamentals in **logic**, **project structure**, and **modern development best practices**
