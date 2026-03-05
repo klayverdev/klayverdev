@@ -4,7 +4,7 @@
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWd0bjlnMnF6Nzd2bDY3Z2VybDdxMGliaXczOWpueXNvaHl1NzBncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhrlcZJsvQWDm/giphy.gif" width="100">
 
-**Software Engineer Student** • **Full Stack Developer**
+**Software Engineer Student** • **Back End Developer**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Exploring+the+world+of+technology+🧭;Beginner+in+fullStack+development+💜;Software+Engineering+student)](https://git.io/typing-svg)
 
