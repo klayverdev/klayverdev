@@ -17,7 +17,7 @@
 
 ## 👨🏻‍💻 About Me
 
-My name is Klayver Oliveira, I'm 22 years old, and I'm from Tocantins, Minas Gerais, Brazil. I am currently studying Software Engineering at Estacio, building my path in the tech world with a focus on constant growth and real hands-on learning.
+My name is Klayver Oliveira, I'm 23 years old, and I'm from Tocantins, Minas Gerais, Brazil. I am currently studying Software Engineering at Unigrande University Center, building my path in the tech world with a focus on constant growth and real hands-on learning.
 
 ## 🚀 Professional Profile
 
