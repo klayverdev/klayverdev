@@ -7,7 +7,7 @@
 
 **Software Engineer Student** • **Back End Developer**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Exploring+the+world+of+technology+🧭;Beginner+in+fullStack+development+💜;Software+Engineering+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Exploring+the+world+of+technology+🧭;Beginner+in+ack+End+development+💜;Software+Engineering+student)](https://git.io/typing-svg)
 
 </div>
 
