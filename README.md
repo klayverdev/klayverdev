@@ -11,7 +11,7 @@
 
 **Software Engineer Student** • **Full stack Developer**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Exploring+the+world+of+technology+🧭;Beginner+in+Full+Stack+development+💜;Software+Engineering+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Exploring+the+world+of+technology+🧭;Beginner+in+Back+End+development+💜;Software+Engineering+student)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,7 +25,7 @@ My name is Klayver Oliveira, I'm 23 years old, and I'm from Tocantins, Minas Ger
 ## 🚀 Professional Profile
 
 * 🔭 Developing myself as a **Software Engineer**, creating projects and expanding my **portfolio**
-* 🎯 Strong interest in **Full stack development**, **web systems**, and **functional digital solutions**
+* 🎯 Strong interest in **Back End development**, **web systems**, and **functional digital solutions**
 * 📚 Building both academic and practical foundations to become a **solid and market-ready professional**
 * 💡 Driven by **innovation**, **technical curiosity**, and the challenge of **turning ideas into code**
 * 🔧 Strengthening my fundamentals in **logic**, **project structure**, and **modern development best practices**
