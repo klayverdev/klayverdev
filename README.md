@@ -86,10 +86,6 @@ My name is Klayver Oliveira, I'm 23 years old, and I'm from Tocantins, Minas Ger
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <a href="https://instagram.com/klayveroliveiraa">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-
   <a href="https://www.linkedin.com/in/klayver-oliveira">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
