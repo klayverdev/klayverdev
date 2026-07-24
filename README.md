@@ -103,6 +103,11 @@ My name is Klayver Oliveira, I'm 23 years old, and I'm from Tocantins, Minas Ger
   </a>
 </p>
 
+### 👀 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=cogumm&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+</div>
 
 ---
 
