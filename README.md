@@ -1,3 +1,4 @@
+
 <div align="center">
   
 # Hi, my name is Klayver👋 
@@ -7,7 +8,6 @@
 **Software Engineer Student** • **Full Stack Developer**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Exploring+the+world+of+technology+🧭+;_Beginner+in+Full+Stack+development+💜+;Software+Engineering+student)](https://git.io/typing-svg)
-
 
 </div>
 
