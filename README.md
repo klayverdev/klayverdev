@@ -6,9 +6,9 @@
 
 ### So let's code? 💜
 
-**Engenheiro de Software** • **Full Stack Developer**
+**Engenheiro de Software (em formação)** • **Full Stack Developer**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Construindo+soluções+com+código+limpo+💜;Comparando+paradigmas+entre+linguagens+🧩;Full+Stack+Developer+em+evolução+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Construindo+soluções+com+código+limpo+💜;Comparando+paradigmas+entre+linguagens+🧩;Full+Stack+Developer+em+evolução+constante+🚀)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/klayver-oliveira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/klayver.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
@@ -24,7 +24,7 @@ Tenho 23 anos, sou de Tocantins, Minas Gerais, e estudo Engenharia de Software n
 
 ## 🚀 Foco atual
 
-* 🔭 Construindo projetos full stack e explorando diferentes stacks de backend (Go, Python, Java, TypeScript)
+* 🔭 Construindo projetos full stack e explorando diferentes stacks de backend (Go, Python, TypeScript)
 * 🧩 Estudando algoritmos e estruturas de dados através de reimplementações comparadas entre linguagens
 * 🌐 Aprofundando conhecimento em **APIs**, **bancos de dados relacionais** e **integrações com Supabase**
 * 📈 Construindo portfólio real com projetos publicados e documentados no GitHub
@@ -42,7 +42,6 @@ Tenho 23 anos, sou de Tocantins, Minas Gerais, e estudo Engenharia de Software n
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -68,20 +67,6 @@ Tenho 23 anos, sou de Tocantins, Minas Gerais, e estudo Engenharia de Software n
 
 **[meeting-rooms-multilang](https://github.com/klayverdev/meeting-rooms-multilang)**
 Um mesmo desafio de algoritmo (Meeting Rooms) resolvido do zero em **Go, Python e TypeScript**, comparando sintaxe, paradigmas e setup de cada linguagem.
-
-</td>
-<td width="50%" valign="top">
-
-**[Conquistas-GitHub](https://github.com/klayverdev/Conquistas-GitHub)**
-Um guia sobre o que são e como conquistar os selos (achievements) do GitHub.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[logica-Type](https://github.com/klayverdev/logica-Type)**
-Exercícios de lógica de programação e estruturas de dados implementados em TypeScript.
 
 </td>
 <td width="50%" valign="top">
