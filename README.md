@@ -99,11 +99,12 @@ Sistema em JavaScript para cálculo e controle de cédulas e moedas.
 
 ---
 
-## 🏆 Conquistas
+## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=klayverdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="trophies"/>
+<img src="https://raw.githubusercontent.com/klayverdev/klayverdev/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
+
 ---
 
 ### 📫 Contato
