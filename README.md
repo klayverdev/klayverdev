@@ -89,20 +89,8 @@ Sistema em JavaScript para cálculo e controle de cédulas e moedas.
 ## 📊 GitHub Analytics
 
 <div align="center">
-<table>
-<tr>
-<td valign="top">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=klayverdev&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&bg_color=00000000&cache_seconds=1800"/>
-</td>
-<td valign="top">
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klayverdev&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=c9d1d9&bg_color=00000000&cache_seconds=1800"/>
-</td>
-</tr>
-</table>
-
-<img src="https://streak-stats.demolab.com/?user=klayverdev&theme=tokyonight&hide_border=true&ring=A855F7&fire=A855F7&background=00000000" alt="streak stats"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=klayverdev&theme=tokyo-night&hide_border=true&color=A855F7&line=A855F7&point=ffffff&bg_color=00000000" alt="activity graph" width="100%"/>
+<img src="https://raw.githubusercontent.com/klayverdev/github-stats/master/generated/overview.svg" alt="stats overview"/>
+<img src="https://raw.githubusercontent.com/klayverdev/github-stats/master/generated/languages.svg" alt="top languages"/>
 </div>
 
 ---
