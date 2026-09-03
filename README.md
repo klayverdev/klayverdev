@@ -1,32 +1,30 @@
-
 <div align="center">
-  
-# Hi, my name is Klayver👋 
+
+# Olá, eu sou Klayver 👋
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWd0bjlnMnF6Nzd2bDY3Z2VybDdxMGliaXczOWpueXNvaHl1NzBncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhrlcZJsvQWDm/giphy.gif" width="100">
 
-**Software Engineer Student** • **Full Stack Developer**
+**Engenheiro de Software** • **Desenvolvedor Full Stack**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Exploring+the+world+of+technology+🧭+;_Beginner+in+Full+Stack+development+💜+;Software+Engineering+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Construindo+soluções+com+código+limpo+💜;Full+Stack+Developer+em+evolução+constante+🚀;Transformando+ideias+em+produtos+reais+🧭)](https://git.io/typing-svg)
 
 </div>
 
-
 ---
 
-## 👨🏻‍💻 About Me
+## 👨🏻‍💻 Sobre mim
 
-My name is Klayver Oliveira, I'm 23 years old, and I'm from Tocantins, Minas Gerais, Brazil. I am currently studying Software Engineering at Unigrande University Center, building my path in the tech world with a focus on constant growth and real hands-on learning.
+Sou Klayver Oliveira, 23 anos, natural de Tocantins, Minas Gerais. Estudante de Engenharia de Software no Unigrande University Center, com foco em desenvolvimento **Full Stack** e construção de soluções digitais funcionais e escaláveis. Busco unir fundamentos sólidos de engenharia a entregas práticas, trabalhando de forma orientada a resultados e boas práticas de desenvolvimento.
 
-## 🚀 Professional Profile
+## 🚀 Perfil profissional
 
-* 🔭 Developing myself as a **Software Engineer**, creating projects and expanding my **portfolio**
-* 🎯 Strong interest in **Full Stack development**, **web systems**, and **functional digital solutions**
-* 📚 Building both academic and practical foundations to become a **solid and market-ready professional**
-* 💡 Driven by **innovation**, **technical curiosity**, and the challenge of **turning ideas into code**
-* 🔧 Strengthening my fundamentals in **logic**, **project structure**, and **modern development best practices**
+* 🔭 Atuo no desenvolvimento de **projetos full stack**, aplicando arquitetura, lógica e boas práticas de engenharia de software
+* 🎯 Foco em **sistemas web**, **APIs** e **soluções digitais** orientadas a performance e escalabilidade
+* 📚 Construção contínua de repertório técnico, unindo teoria acadêmica a experiência prática de projetos reais
+* 💡 Motivado por **resolução de problemas**, **inovação** e pela transformação de ideias em produtos funcionais
+* 🔧 Aprimoramento constante em **lógica de programação**, **arquitetura de projetos** e **padrões modernos de desenvolvimento**
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológica
 
 <div align="center">
 
@@ -44,17 +42,15 @@ My name is Klayver Oliveira, I'm 23 years old, and I'm from Tocantins, Minas Ger
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-### Databases
+### Bancos de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-18181B?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
-
-### Tools & DevOps
+### Ferramentas & DevOps
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
@@ -62,25 +58,32 @@ My name is Klayver Oliveira, I'm 23 years old, and I'm from Tocantins, Minas Ger
 
 ---
 
-### 📫 Contact Me
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=cogumm&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cogumm&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+### 📫 Contato
 
 <p align="center">
   <a href="mailto:klayver261@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
   <a href="https://www.linkedin.com/in/klayver-oliveira">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://discordapp.com/users/669347422861787145">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
-### 👀 Profile Views
+### 👀 Visualizações do perfil
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cogumm&style=for-the-badge&color=blueviolet" alt="Profile views"/>
@@ -90,7 +93,7 @@ My name is Klayver Oliveira, I'm 23 years old, and I'm from Tocantins, Minas Ger
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRraWV1dnBzd3A0cWU3NTlia29vOHhncXhlaDhkZzB2djdjaGhodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JlJJU8Rd2QP4qxjNBc/giphy.gif" width="150">
-  
-  **Thank you for visiting. I’m open to collaborations and new opportunities to create impactful projects. 🚀**
-  
+
+  **Obrigado pela visita. Estou aberto a colaborações e novas oportunidades para construir projetos de impacto. 🚀**
+
 </div>
