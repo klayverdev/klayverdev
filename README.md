@@ -86,14 +86,6 @@ Sistema em JavaScript para cálculo e controle de cédulas e moedas.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/klayverdev/klayverdev/main/github-metrics.svg" alt="métricas do github"/>
-</div>
-
----
-
 ## 🏆 Conquistas
 
 <div align="center">
