@@ -8,7 +8,7 @@
 
 **Engenheiro de Software (em formação)** • **Full Stack Developer**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Construindo+soluções+com+código+limpo+💜;Comparando+paradigmas+entre+linguagens+🧩;Full+Stack+Developer+em+evolução+constante+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Construindo+soluções+com+código+limpo+💜;Comparando+paradigmas+entre+linguagens+🧩;Full+Stack+Developer+em+evolução+🚀)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/klayver-oliveira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/klayver.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
@@ -90,8 +90,8 @@ Sistema em JavaScript para cálculo e controle de cédulas e moedas.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=klayverdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A855F7&icon_color=A855F7"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klayverdev&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=klayverdev&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=A855F7&cache_seconds=1800"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klayverdev&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&cache_seconds=1800"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=klayverdev&theme=tokyonight&hide_border=true&ring=A855F7&fire=A855F7" alt="streak stats"/>
 
