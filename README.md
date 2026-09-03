@@ -6,7 +6,7 @@
 
 **Engenheiro de Software** • **Desenvolvedor Full Stack**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Construindo+soluções+com+código+limpo+💜;Full+Stack+Developer+em+evolução+constante+🚀;Transformando+ideias+em+produtos+reais+🧭)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Construindo+soluções+com+código+limpo+💜;Full+Stack+Developer+em+evolução+🚀;Transformando+ideias+em+produtos+reais+🧭)](https://git.io/typing-svg)
 
 </div>
 
