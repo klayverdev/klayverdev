@@ -6,7 +6,7 @@
 
 ### So let's code? 💜
 
-**Engenheiro de Software (em formação)** • **Full Stack Developer**
+**Engenheiro de Software ** • **Full Stack Developer**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Construindo+soluções+com+código+limpo+💜;Comparando+paradigmas+entre+linguagens+🧩;Full+Stack+Developer+em+evolução+🚀)](https://git.io/typing-svg)
 
