@@ -102,11 +102,8 @@ Sistema em JavaScript para cálculo e controle de cédulas e moedas.
 ## 🏆 Conquistas
 
 <div align="center">
-<img src="https://github.githubassets.com/assets/quickdraw-default--medium-dark-477cc984c57a.png" width="60" title="Quickdraw"/>
-<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60" title="Pull Shark"/>
-<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="60" title="YOLO"/>
+<img src="https://github-profile-trophy.vercel.app/?username=klayverdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="trophies"/>
 </div>
-
 ---
 
 ### 📫 Contato
