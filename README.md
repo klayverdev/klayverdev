@@ -89,15 +89,7 @@ Sistema em JavaScript para cálculo e controle de cédulas e moedas.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=klayverdev&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7" alt="activity graph" width="100%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=klayverdev&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="trophies"/>
+  <img src="https://raw.githubusercontent.com/klayverdev/klayverdev/main/github-metrics.svg" alt="métricas do github"/>
 </div>
 
 ---
