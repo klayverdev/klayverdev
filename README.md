@@ -1,17 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
 
 # Olá, eu sou o Klayver 👋
@@ -96,16 +83,6 @@ Sistema em JavaScript para cálculo e controle de cédulas e moedas.
 
 📂 [Ver todos os repositórios →](https://github.com/klayverdev?tab=repositories)
 
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-<img src="https://github.githubassets.com/assets/quickdraw-default--medium-dark-477cc984c57a.png" width="60" title="Quickdraw"/>
-<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60" title="Pull Shark"/>
-<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="60" title="YOLO"/>
 </div>
 
 ---
