@@ -21,7 +21,7 @@
 
 ## 👨🏻‍💻 Sobre mim
 
-Tenho 23 anos, sou de Tocantins, Minas Gerais, e estudo Engenharia de Software no Unigrande University Center. Gosto de entender **como** e **por que** as coisas funcionam — por isso costumo resolver o mesmo problema em linguagens diferentes só para comparar sintaxe, paradigma e performance. É um jeito de aprender na prática, não só na teoria.
+Tenho 23 anos, sou de Tocantins, Minas Gerais, e estudo Engenharia de Software no Unigrande University Center. Gosto de entender **como** e **por que** as coisas funcionam. Por isso costumo resolver o mesmo problema em linguagens diferentes só para comparar sintaxe, paradigma e performance. É um jeito de aprender na prática, não só na teoria.
 
 ## 🚀 Foco atual
 
