@@ -3,7 +3,7 @@
 
 # Olá, eu sou o Klayver 👋
 
-<img src="[https://giphy.com/gifs/naruto-uzumaki-WubZPnIa2o0CI](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWd0bjlnMnF6Nzd2bDY3Z2VybDdxMGliaXczOWpueXNvaHl1NzBncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhrlcZJsvQWDm/giphy.gif)" width="100">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWd0bjlnMnF6Nzd2bDY3Z2VybDdxMGliaXczOWpueXNvaHl1NzBncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhrlcZJsvQWDm/giphy.gif" width="100">
 
 ### So let's code? 💜
 
